@@ -19,6 +19,7 @@ def bubble_sort(nums: List[int]) -> List[int]:
 
 
 if __name__ == "__main__":
+    print("helloworld")
     sample = [5, 1, 4, 2, 8]
     print("原始数组:", sample)
     print("排序结果:", bubble_sort(sample))
